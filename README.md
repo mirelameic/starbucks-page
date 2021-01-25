@@ -1,2 +1,2 @@
 # starbucks-page
-Starbucks single page
+Starbucks single page (front-end)
